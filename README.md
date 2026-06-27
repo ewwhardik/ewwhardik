@@ -10,4 +10,10 @@
     <a href="https://mynickname.com/id50692"><img src="https://mynickname.com/img.php?nick=Hardik&sert=24&text=t8" alt="Nickname Hardik registred!" /></a>
 </div>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)[![divider_moving_neon_gradient]
+
+
+
+
+
+(https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
