@@ -10,15 +10,15 @@
     <a href="https://mynickname.com/id50692"><img src="https://mynickname.com/img.php?nick=Hardik&sert=24&text=t8" alt="Nickname Hardik registred!" /></a>
 </div>
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/ewwhardik)
 
 ```javascript
 const HARDIK = {
     OS: ["poop Linux"],
     languages: {
         highLevel: ["Python", "C#"],
-        averageLevel: ["JavaScript", C++, Koltin],
-        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash"]
+        averageLevel: ["JavaScript", "C++", "Kotlin"],
+        baseLevel: ["Rust", "C", "Java", "Typescript", "Bash", "PHP" ]
     },
     programming: {
         backend: ["Django", "FastApi", "Flask", "RabbitMQ", "PyDantic"],
@@ -28,16 +28,19 @@ const HARDIK = {
         webScraping: ["aiohttp", "requests", "BeautifulSoup4", "Selenium"],
         bots: ["aiogram", "pyrogram", "vkbottle"],
         devOps: ["Docker", "Nginx", "Ngrok"],
-        GameDev: ["Unity", "Unreal 5"],
+        gameDev: ["Unity", "Unreal 5"],
         3D: ["WebGL", "Blender", "Maya"],
+        cloud: ["AWS", "Azure"],
+        cyber: ["nmap", "metasploit", "wireshark", "burpSuite", "Autopsy", "EnCase", "Volatility"],
+        reverse: ["x64dbg", "IDA Pro", "Radare2", "dnSpy"],
 
         GUI: {
             Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
             Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
         }
     },
-    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma", ],
+    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma", "Lightroom", "" ],
 };
 ```
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
+[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ewwhardik)
