@@ -46,17 +46,6 @@ const HARDIK = {
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/ewwhardik)
 
 
-<p align="center">
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ewwhardik&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-
 
 
 <div align="center">
