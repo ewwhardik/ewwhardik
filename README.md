@@ -66,4 +66,12 @@ const HARDIK = {
 Languages and Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=py,cs,js,ts,cpp,kotlin,rust,c,java,bash,php,html,css,vue,react,postgres,mongodb,sqlite,mysql,django,flask,fastapi,rabbitmq,docker,nginx,unity,unreal,blender,aws,azure,figma,photoshop,ps,ai,qt&perline=12" /> </p>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+</div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+
 
