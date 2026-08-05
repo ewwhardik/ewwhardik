@@ -63,8 +63,11 @@ const HARDIK = {
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ewwhardik&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-Languages and Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=py,cs,js,ts,cpp,kotlin,rust,c,java,bash,php,html,css,vue,react,postgres,mongodb,sqlite,mysql,django,flask,fastapi,rabbitmq,docker,nginx,unity,unreal,blender,aws,azure,figma,photoshop,ps,ai,qt&perline=12" /> </p>
+<h2 align="center">Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,cs,java,kotlin,rust,go,js,ts,nodejs,html,css,sass,tailwind,bootstrap,react,nextjs,vue,vite,electron,tauri,django,flask,fastapi,express,postgres,mysql,mongodb,sqlite,redis,firebase,supabase,docker,kubernetes,nginx,linux,bash,powershell,git,github,githubactions,cloudflare,aws,azure,gcp,vscode,visualstudio,pycharm,idea,clion,androidstudio,figma,ps,ai,pr,ae,blender,unity,unreal&perline=10" />
+</p>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
