@@ -7,6 +7,8 @@
 <div align="center">
     <br>
     <a href="https://mynickname.com/id50692"><img src="https://mynickname.com/img.php?nick=Hardik&sert=24&text=t8" alt="Nickname Hardik registred!" /></a>
+    <img src="https://img.shields.io/github/stars/ewwhardik?label=Stars&style=social" alt="GitHub Stars" />
+<img src="https://api.visitorbadge.io/api/visitors?path=ewwhardik&label=Profile%20Views&countColor=%23263759&style=flat" alt="Profile Views" />
 </div>
 
 
@@ -63,10 +65,6 @@ const HARDIK = {
 </div>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-<div align="center">
-<img src="https://img.shields.io/github/stars/ewwhardik?label=Stars&style=social" alt="GitHub Stars" />
-<img src="https://api.visitorbadge.io/api/visitors?path=ewwhardik&label=Profile%20Views&countColor=%23263759&style=flat" alt="Profile Views" />
 </div>
 
 
