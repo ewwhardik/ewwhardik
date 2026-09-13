@@ -6,6 +6,9 @@
 </div>
 <div align="center">
     <br>
+    <a href="https://nastik.me" target="_blank">
+        <img src="https://img.shields.io/badge/nastik.me-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
     <a href="https://mynickname.com/id50692"><img src="https://mynickname.com/img.php?nick=Hardik&sert=24&text=t8" alt="Nickname Hardik registred!" /></a>
     <img src="https://img.shields.io/github/stars/ewwhardik?label=Stars&style=social" alt="GitHub Stars" />
 <img src="https://api.visitorbadge.io/api/visitors?path=ewwhardik&label=Profile%20Views&countColor=%23263759&style=flat" alt="Profile Views" />
